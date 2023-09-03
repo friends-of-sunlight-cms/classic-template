@@ -6,7 +6,7 @@
 		{"name": "Friends of Sunlight CMS", "url": "https://github.cz/friends-of-sunlight-cms/"}
         {"url": "https://sunlight-cms.cz/"}
     ],
-    "version": "8.0",
+    "version": "1.0.0",
     "environment": {
         "system": "^8.0"
     },
