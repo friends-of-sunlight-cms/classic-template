@@ -1,0 +1,23 @@
+{
+    "$schema": "../../../system/schema/template.json",
+    "name": "Classic",
+    "description": "7.x default template. Originally by freecsstemplates.org",
+    "authors": [
+		{"name": "Friends of Sunlight CMS", "url": "https://github.cz/friends-of-sunlight-cms/"}
+        {"url": "https://sunlight-cms.cz/"}
+    ],
+    "version": "8.0",
+    "environment": {
+        "system": "^8.0"
+    },
+    "layouts": {
+        "default": {
+            "template": "template.php",
+            "slots": ["left"]
+        }
+    },
+    "box.parent": "",
+    "box.item": "div",
+    "box.title": "h3",
+    "box.title.inside": false
+}
