@@ -3,7 +3,7 @@
     "name": "Classic",
     "description": "7.x default template. Originally by freecsstemplates.org",
     "authors": [
-		{"name": "Friends of Sunlight CMS", "url": "https://github.cz/friends-of-sunlight-cms/"}
+        {"name": "Friends of Sunlight CMS", "url": "https://github.cz/friends-of-sunlight-cms/"},
         {"url": "https://sunlight-cms.cz/"}
     ],
     "version": "1.0.0",
